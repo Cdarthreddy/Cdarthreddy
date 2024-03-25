@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cdarthreddy
-- 👀 I’m interested in ...Doing projects on cloud
+- 👀 I’m interested in ...Doing projects in cloud 
 - 🌱 I’m currently learning ...Python , Terraform , Github actions.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...@cdarth___
