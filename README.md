@@ -1,60 +1,53 @@
 # 👋 Siddhartha Reddy Thigala
 
-**Cloud Engineer | AWS Certified | Serverless Architecture Enthusiast**
+**Cloud Engineer | AWS Certified Solutions Architect – Associate | Serverless & AI/LLM**
 
-Based in Dublin, Ireland | [LinkedIn](https://linkedin.com/in/siddhartha-reddy-thigala) | [Email](mailto:siddharthareddythigala2002@gmail.com)
+Based in Dublin, Ireland | [LinkedIn](https://linkedin.com/in/siddhartha-reddy-thigala) | [Email](mailto:siddharthreddyt20@gmail.com)
 
 ---
 
 ## 🎓 About Me
 
-MSc Cloud Computing graduate from National College of Ireland with hands-on experience building serverless, event-driven AWS applications. **AWS Certified Cloud Practitioner** actively pursuing **AWS Solutions Architect Associate (SAA-C03)** certification.
+MSc Cloud Computing graduate from National College of Ireland. AWS Certified Solutions Architect – Associate and AWS Certified Cloud Practitioner. I build and deploy cloud-native systems on AWS using Terraform for infrastructure as code, and I'm comfortable going from architecture diagram to working, tested code.
 
-I specialize in designing and deploying cloud-native solutions using Lambda, DynamoDB, Kinesis, S3, CloudFormation, and automated CI/CD pipelines. I'm passionate about infrastructure automation, cost optimization, and building production-ready systems.
+I'm especially interested in infrastructure automation, cost-efficient architecture, and applying machine learning to real cloud/systems problems.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. **Real-Time News Sentiment Analyser**
-**[View Repository](https://github.com/Cdarthreddy/Real-Time-News-Sentiment-analyser)**
+### 1. Latency Reduction in 5G-Enabled Cloud Environments
+**[View Repository](https://github.com/Cdarthreddy/LatencyReductionInCloud)**
 
-Event-driven data pipeline for real-time sentiment analysis of news feeds.
+A self-learning Q-learning orchestrator that decides whether IoT/AR-VR tasks should run on edge or cloud nodes to minimise latency.
 
-**Tech Stack:** Python | AWS Kinesis Data Streams | Apache Spark Structured Streaming | NLP
-
-**Key Features:**
-- Ingests live news feeds via AWS Kinesis Data Streams
-- Implements NLP-based sentiment scoring using Spark Structured Streaming
-- Production-grade stream simulation and data producer scripts
-- Demonstrates serverless patterns applicable to IoT, fraud detection, real-time analytics
-
-**AWS Services Used:** Kinesis, Lambda, CloudWatch
+**Tech Stack:** Python | AWS (EC2, S3, CloudWatch) | Terraform | PyTest
 ## 🏗️ Architecture
 
 ![Architecture diagram](docs/architecture.png)
+
+**Key Features:**
+- Reinforcement learning (Q-learning) orchestrator benchmarked against random and rule-based baselines
+- Full AWS deployment via Terraform: EC2, IAM, S3, CloudWatch — provisioned as code
+- Automated multi-trial experiment runner with result aggregation and visualisation
+- 41 passing unit tests (PyTest) covering the orchestrator, simulator, and aggregation logic
 
 ---
 
-
-### 2. **Inventory Management Application**
+### 2. Inventory Management Application
 **[View Repository](https://github.com/Cdarthreddy/InventoryApp)**
 
-Full-stack Django application with end-to-end AWS cloud deployment.
+Full-stack Django application with end-to-end AWS CI/CD deployment.
 
-**Tech Stack:** Python | Django | SQLite | AWS Elastic Beanstalk | CodeBuild | SonarQube
-
-**Key Features:**
-- RESTful APIs for inventory tracking and reporting
-- Deployed to AWS Elastic Beanstalk with auto-scaling & load balancing
-- Automated CI/CD pipeline with AWS CodeBuild
-- Integrated SonarQube for code quality gates
-- Production-ready with proper error handling
-
-**AWS Services Used:** Elastic Beanstalk, CodeBuild, S3, CloudWatch, IAM
+**Tech Stack:** Python | Django | AWS Elastic Beanstalk | CodeBuild | SonarQube
 ## 🏗️ Architecture
 
 ![Architecture diagram](docs/architecture.png)
+
+**Key Features:**
+- REST APIs for inventory tracking and reporting
+- Deployed to AWS Elastic Beanstalk via `.ebextensions` configuration
+- Automated CodeBuild CI/CD pipeline with SonarQube quality gates
 
 ---
 
