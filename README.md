@@ -30,8 +30,12 @@ Event-driven data pipeline for real-time sentiment analysis of news feeds.
 - Demonstrates serverless patterns applicable to IoT, fraud detection, real-time analytics
 
 **AWS Services Used:** Kinesis, Lambda, CloudWatch
+## 🏗️ Architecture
+
+![Architecture diagram](docs/architecture.png)
 
 ---
+
 
 ### 2. **Inventory Management Application**
 **[View Repository](https://github.com/Cdarthreddy/InventoryApp)**
@@ -48,6 +52,9 @@ Full-stack Django application with end-to-end AWS cloud deployment.
 - Production-ready with proper error handling
 
 **AWS Services Used:** Elastic Beanstalk, CodeBuild, S3, CloudWatch, IAM
+## 🏗️ Architecture
+
+![Architecture diagram](docs/architecture.png)
 
 ---
 
