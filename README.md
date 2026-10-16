@@ -54,44 +54,39 @@ Full-stack Django application with end-to-end AWS cloud deployment.
 ## 💼 Technical Skills
 
 | Category | Skills |
-|----------|--------|
-| **Cloud & AWS** | Lambda, IAM, S3, DynamoDB, Kinesis, CloudWatch, CloudFormation, CodeBuild, VPC, EC2, SNS, SQS, Route 53, Elastic Beanstalk |
-| **Architecture** | Serverless, Microservices, Event-Driven, AWS Well-Architected Framework, Cost Optimization |
-| **DevOps & IaC** | Git, GitHub Actions, CloudFormation, Nginx, Linux, Docker |
-| **Development** | Python, JavaScript, SQL, Bash, HTML/CSS, Django, REST APIs |
-| **AI & LLM** | Claude API, Prompt Engineering, Tool Use, Agentic Workflows, MCP |
-
----
-
-## 🎯 Current Focus
-
-- 📖 **AWS Solutions Architect Associate (SAA-C03)** — Exam scheduled Q3 2026
-- 🔨 **Terraform & Infrastructure as Code** — Extending CloudFormation knowledge
-- 🤖 **Claude Certified Architect (CCA-F)** — Planned for Q4 2026
-
----
-
-## 🎓 Education
-
-**MSc Cloud Computing** | National College of Ireland (NCI), Dublin | 2025–2026  
-**Bachelor of Technology (B.Tech) Computer Science** | 2020–2024
+|---|---|
+| **Cloud & AWS** | EC2, S3, IAM, CloudWatch, Lambda, EventBridge, DynamoDB, SNS, SQS, Kinesis, VPC, CloudFormation, CodeBuild, Elastic Beanstalk, Route 53 |
+| **Architecture** | Serverless, Event-Driven, Microservices, AWS Well-Architected Framework, Least-Privilege IAM, Cost Optimisation |
+| **DevOps & IaC** | Terraform, CloudFormation, Git, GitHub Actions, Docker, Nginx, Linux, PyTest |
+| **Development** | Python, JavaScript, SQL, Bash, Django, REST APIs, HTML/CSS |
+| **AI & ML** | Reinforcement Learning (Q-learning), Claude API, Tool Use, Agentic Workflows, MCP, Prompt Engineering |
 
 ---
 
 ## 📜 Certifications
 
-✅ **AWS Certified Cloud Practitioner** — Active (2025)  
-⏳ **AWS Solutions Architect Associate (SAA-C03)** — Exam scheduled Q3 2026  
-⏳ **Claude Certified Architect (CCA-F)** — Exam scheduled Q4 2026
+✅ **AWS Certified Solutions Architect – Associate (SAA-C03)** — September 2026
+✅ **AWS Certified Cloud Practitioner** — 2025
+
+---
+
+## 🎯 Current Focus
+
+- 🔨 Deepening Terraform and infrastructure-as-code practice beyond CloudFormation
+- 🐧 Building Linux and Python fundamentals for cloud/DevOps engineering
+- ☁️ Applying for Cloud Engineer / AWS Developer roles in Ireland
+
+---
+
+## 🎓 Education
+
+**MSc Cloud Computing** | National College of Ireland (NCI), Dublin | 2025–2026
+**B.Tech Computer Science** | Bharath Institute of Higher Education and Research | 2020–2024
 
 ---
 
 ## 🔗 Connect
 
 - **LinkedIn:** [linkedin.com/in/siddhartha-reddy-thigala](https://linkedin.com/in/siddhartha-reddy-thigala)
-- **Email:** siddharthareddythigala2002@gmail.com
+- **Email:** siddharthreddyt20@gmail.com
 - **Location:** Dublin, Ireland
-
----
-
-*Last Updated: July 2026*
